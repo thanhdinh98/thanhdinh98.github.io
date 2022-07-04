@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkthanhdinh_98=self.webpackChunkthanhdinh_98||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/blog/hello-world"}]}')}}]);
